@@ -1,0 +1,3752 @@
+[
+  {
+    "id": 1,
+    "category": "OSI model",
+    "question": "Which layer of the OSI model handles routing?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Application"
+      },
+      {
+        "id": "B",
+        "text": "Transport"
+      },
+      {
+        "id": "C",
+        "text": "Network"
+      },
+      {
+        "id": "D",
+        "text": "Session"
+      }
+    ],
+    "correctAnswer": "Network",
+    "difficulty": "hard"
+  },
+  {
+    "id": 2,
+    "category": "TCP/IP",
+    "question": "Which protocol is connection-oriented?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UDP"
+      },
+      {
+        "id": "B",
+        "text": "TCP"
+      },
+      {
+        "id": "C",
+        "text": "ICMP"
+      },
+      {
+        "id": "D",
+        "text": "ARP"
+      }
+    ],
+    "correctAnswer": "TCP",
+    "difficulty": "easy"
+  },
+  {
+    "id": 3,
+    "category": "DNS",
+    "question": "What does DNS stand for?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Domain Name System"
+      },
+      {
+        "id": "B",
+        "text": "Dynamic Naming Service"
+      },
+      {
+        "id": "C",
+        "text": "Digital Network System"
+      },
+      {
+        "id": "D",
+        "text": "Domain Network Service"
+      }
+    ],
+    "correctAnswer": "Domain Name System",
+    "difficulty": "medium"
+  },
+  {
+    "id": 4,
+    "category": "HTTP",
+    "question": "What is the default port for HTTP?",
+    "options": [
+      {
+        "id": "A",
+        "text": "21"
+      },
+      {
+        "id": "B",
+        "text": "25"
+      },
+      {
+        "id": "C",
+        "text": "80"
+      },
+      {
+        "id": "D",
+        "text": "443"
+      }
+    ],
+    "correctAnswer": "80",
+    "difficulty": "hard"
+  },
+  {
+    "id": 5,
+    "category": "HTTPS",
+    "question": "What is the default port for HTTPS?",
+    "options": [
+      {
+        "id": "A",
+        "text": "20"
+      },
+      {
+        "id": "B",
+        "text": "22"
+      },
+      {
+        "id": "C",
+        "text": "443"
+      },
+      {
+        "id": "D",
+        "text": "8080"
+      }
+    ],
+    "correctAnswer": "443",
+    "difficulty": "hard"
+  },
+  {
+    "id": 6,
+    "category": "FTP",
+    "question": "Which protocol is used for file transfer?",
+    "options": [
+      {
+        "id": "A",
+        "text": "SMTP"
+      },
+      {
+        "id": "B",
+        "text": "FTP"
+      },
+      {
+        "id": "C",
+        "text": "DNS"
+      },
+      {
+        "id": "D",
+        "text": "SNMP"
+      }
+    ],
+    "correctAnswer": "FTP",
+    "difficulty": "easy"
+  },
+  {
+    "id": 7,
+    "category": "SMTP",
+    "question": "Which protocol is used for sending emails?",
+    "options": [
+      {
+        "id": "A",
+        "text": "POP3"
+      },
+      {
+        "id": "B",
+        "text": "IMAP"
+      },
+      {
+        "id": "C",
+        "text": "SMTP"
+      },
+      {
+        "id": "D",
+        "text": "ARP"
+      }
+    ],
+    "correctAnswer": "SMTP",
+    "difficulty": "medium"
+  },
+  {
+    "id": 8,
+    "category": "DHCP",
+    "question": "Which protocol automatically assigns IP addresses?",
+    "options": [
+      {
+        "id": "A",
+        "text": "DNS"
+      },
+      {
+        "id": "B",
+        "text": "DHCP"
+      },
+      {
+        "id": "C",
+        "text": "HTTP"
+      },
+      {
+        "id": "D",
+        "text": "FTP"
+      }
+    ],
+    "correctAnswer": "DHCP",
+    "difficulty": "medium"
+  },
+  {
+    "id": 9,
+    "category": "Router",
+    "question": "Which device connects multiple networks?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hub"
+      },
+      {
+        "id": "B",
+        "text": "Switch"
+      },
+      {
+        "id": "C",
+        "text": "Router"
+      },
+      {
+        "id": "D",
+        "text": "Bridge"
+      }
+    ],
+    "correctAnswer": "Router",
+    "difficulty": "easy"
+  },
+  {
+    "id": 10,
+    "category": "Switch",
+    "question": "Which device works at the Data Link layer?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Router"
+      },
+      {
+        "id": "B",
+        "text": "Hub"
+      },
+      {
+        "id": "C",
+        "text": "Switch"
+      },
+      {
+        "id": "D",
+        "text": "Gateway"
+      }
+    ],
+    "correctAnswer": "Switch",
+    "difficulty": "medium"
+  },
+  {
+    "id": 11,
+    "category": "OSI model",
+    "question": "Which layer of the OSI model handles routing?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Application"
+      },
+      {
+        "id": "B",
+        "text": "Transport"
+      },
+      {
+        "id": "C",
+        "text": "Network"
+      },
+      {
+        "id": "D",
+        "text": "Session"
+      }
+    ],
+    "correctAnswer": "Network",
+    "difficulty": "easy"
+  },
+  {
+    "id": 12,
+    "category": "TCP/IP",
+    "question": "Which protocol is connection-oriented?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UDP"
+      },
+      {
+        "id": "B",
+        "text": "TCP"
+      },
+      {
+        "id": "C",
+        "text": "ICMP"
+      },
+      {
+        "id": "D",
+        "text": "ARP"
+      }
+    ],
+    "correctAnswer": "TCP",
+    "difficulty": "easy"
+  },
+  {
+    "id": 13,
+    "category": "DNS",
+    "question": "What does DNS stand for?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Domain Name System"
+      },
+      {
+        "id": "B",
+        "text": "Dynamic Naming Service"
+      },
+      {
+        "id": "C",
+        "text": "Digital Network System"
+      },
+      {
+        "id": "D",
+        "text": "Domain Network Service"
+      }
+    ],
+    "correctAnswer": "Domain Name System",
+    "difficulty": "easy"
+  },
+  {
+    "id": 14,
+    "category": "HTTP",
+    "question": "What is the default port for HTTP?",
+    "options": [
+      {
+        "id": "A",
+        "text": "21"
+      },
+      {
+        "id": "B",
+        "text": "25"
+      },
+      {
+        "id": "C",
+        "text": "80"
+      },
+      {
+        "id": "D",
+        "text": "443"
+      }
+    ],
+    "correctAnswer": "80",
+    "difficulty": "hard"
+  },
+  {
+    "id": 15,
+    "category": "HTTPS",
+    "question": "What is the default port for HTTPS?",
+    "options": [
+      {
+        "id": "A",
+        "text": "20"
+      },
+      {
+        "id": "B",
+        "text": "22"
+      },
+      {
+        "id": "C",
+        "text": "443"
+      },
+      {
+        "id": "D",
+        "text": "8080"
+      }
+    ],
+    "correctAnswer": "443",
+    "difficulty": "medium"
+  },
+  {
+    "id": 16,
+    "category": "FTP",
+    "question": "Which protocol is used for file transfer?",
+    "options": [
+      {
+        "id": "A",
+        "text": "SMTP"
+      },
+      {
+        "id": "B",
+        "text": "FTP"
+      },
+      {
+        "id": "C",
+        "text": "DNS"
+      },
+      {
+        "id": "D",
+        "text": "SNMP"
+      }
+    ],
+    "correctAnswer": "FTP",
+    "difficulty": "medium"
+  },
+  {
+    "id": 17,
+    "category": "SMTP",
+    "question": "Which protocol is used for sending emails?",
+    "options": [
+      {
+        "id": "A",
+        "text": "POP3"
+      },
+      {
+        "id": "B",
+        "text": "IMAP"
+      },
+      {
+        "id": "C",
+        "text": "SMTP"
+      },
+      {
+        "id": "D",
+        "text": "ARP"
+      }
+    ],
+    "correctAnswer": "SMTP",
+    "difficulty": "medium"
+  },
+  {
+    "id": 18,
+    "category": "DHCP",
+    "question": "Which protocol automatically assigns IP addresses?",
+    "options": [
+      {
+        "id": "A",
+        "text": "DNS"
+      },
+      {
+        "id": "B",
+        "text": "DHCP"
+      },
+      {
+        "id": "C",
+        "text": "HTTP"
+      },
+      {
+        "id": "D",
+        "text": "FTP"
+      }
+    ],
+    "correctAnswer": "DHCP",
+    "difficulty": "hard"
+  },
+  {
+    "id": 19,
+    "category": "Router",
+    "question": "Which device connects multiple networks?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hub"
+      },
+      {
+        "id": "B",
+        "text": "Switch"
+      },
+      {
+        "id": "C",
+        "text": "Router"
+      },
+      {
+        "id": "D",
+        "text": "Bridge"
+      }
+    ],
+    "correctAnswer": "Router",
+    "difficulty": "medium"
+  },
+  {
+    "id": 20,
+    "category": "Switch",
+    "question": "Which device works at the Data Link layer?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Router"
+      },
+      {
+        "id": "B",
+        "text": "Hub"
+      },
+      {
+        "id": "C",
+        "text": "Switch"
+      },
+      {
+        "id": "D",
+        "text": "Gateway"
+      }
+    ],
+    "correctAnswer": "Switch",
+    "difficulty": "medium"
+  },
+  {
+    "id": 21,
+    "category": "OSI model",
+    "question": "Which layer of the OSI model handles routing?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Application"
+      },
+      {
+        "id": "B",
+        "text": "Transport"
+      },
+      {
+        "id": "C",
+        "text": "Network"
+      },
+      {
+        "id": "D",
+        "text": "Session"
+      }
+    ],
+    "correctAnswer": "Network",
+    "difficulty": "easy"
+  },
+  {
+    "id": 22,
+    "category": "TCP/IP",
+    "question": "Which protocol is connection-oriented?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UDP"
+      },
+      {
+        "id": "B",
+        "text": "TCP"
+      },
+      {
+        "id": "C",
+        "text": "ICMP"
+      },
+      {
+        "id": "D",
+        "text": "ARP"
+      }
+    ],
+    "correctAnswer": "TCP",
+    "difficulty": "hard"
+  },
+  {
+    "id": 23,
+    "category": "DNS",
+    "question": "What does DNS stand for?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Domain Name System"
+      },
+      {
+        "id": "B",
+        "text": "Dynamic Naming Service"
+      },
+      {
+        "id": "C",
+        "text": "Digital Network System"
+      },
+      {
+        "id": "D",
+        "text": "Domain Network Service"
+      }
+    ],
+    "correctAnswer": "Domain Name System",
+    "difficulty": "hard"
+  },
+  {
+    "id": 24,
+    "category": "HTTP",
+    "question": "What is the default port for HTTP?",
+    "options": [
+      {
+        "id": "A",
+        "text": "21"
+      },
+      {
+        "id": "B",
+        "text": "25"
+      },
+      {
+        "id": "C",
+        "text": "80"
+      },
+      {
+        "id": "D",
+        "text": "443"
+      }
+    ],
+    "correctAnswer": "80",
+    "difficulty": "medium"
+  },
+  {
+    "id": 25,
+    "category": "HTTPS",
+    "question": "What is the default port for HTTPS?",
+    "options": [
+      {
+        "id": "A",
+        "text": "20"
+      },
+      {
+        "id": "B",
+        "text": "22"
+      },
+      {
+        "id": "C",
+        "text": "443"
+      },
+      {
+        "id": "D",
+        "text": "8080"
+      }
+    ],
+    "correctAnswer": "443",
+    "difficulty": "medium"
+  },
+  {
+    "id": 26,
+    "category": "FTP",
+    "question": "Which protocol is used for file transfer?",
+    "options": [
+      {
+        "id": "A",
+        "text": "SMTP"
+      },
+      {
+        "id": "B",
+        "text": "FTP"
+      },
+      {
+        "id": "C",
+        "text": "DNS"
+      },
+      {
+        "id": "D",
+        "text": "SNMP"
+      }
+    ],
+    "correctAnswer": "FTP",
+    "difficulty": "hard"
+  },
+  {
+    "id": 27,
+    "category": "SMTP",
+    "question": "Which protocol is used for sending emails?",
+    "options": [
+      {
+        "id": "A",
+        "text": "POP3"
+      },
+      {
+        "id": "B",
+        "text": "IMAP"
+      },
+      {
+        "id": "C",
+        "text": "SMTP"
+      },
+      {
+        "id": "D",
+        "text": "ARP"
+      }
+    ],
+    "correctAnswer": "SMTP",
+    "difficulty": "hard"
+  },
+  {
+    "id": 28,
+    "category": "DHCP",
+    "question": "Which protocol automatically assigns IP addresses?",
+    "options": [
+      {
+        "id": "A",
+        "text": "DNS"
+      },
+      {
+        "id": "B",
+        "text": "DHCP"
+      },
+      {
+        "id": "C",
+        "text": "HTTP"
+      },
+      {
+        "id": "D",
+        "text": "FTP"
+      }
+    ],
+    "correctAnswer": "DHCP",
+    "difficulty": "easy"
+  },
+  {
+    "id": 29,
+    "category": "Router",
+    "question": "Which device connects multiple networks?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hub"
+      },
+      {
+        "id": "B",
+        "text": "Switch"
+      },
+      {
+        "id": "C",
+        "text": "Router"
+      },
+      {
+        "id": "D",
+        "text": "Bridge"
+      }
+    ],
+    "correctAnswer": "Router",
+    "difficulty": "easy"
+  },
+  {
+    "id": 30,
+    "category": "Switch",
+    "question": "Which device works at the Data Link layer?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Router"
+      },
+      {
+        "id": "B",
+        "text": "Hub"
+      },
+      {
+        "id": "C",
+        "text": "Switch"
+      },
+      {
+        "id": "D",
+        "text": "Gateway"
+      }
+    ],
+    "correctAnswer": "Switch",
+    "difficulty": "medium"
+  },
+  {
+    "id": 31,
+    "category": "OSI model",
+    "question": "Which layer of the OSI model handles routing?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Application"
+      },
+      {
+        "id": "B",
+        "text": "Transport"
+      },
+      {
+        "id": "C",
+        "text": "Network"
+      },
+      {
+        "id": "D",
+        "text": "Session"
+      }
+    ],
+    "correctAnswer": "Network",
+    "difficulty": "hard"
+  },
+  {
+    "id": 32,
+    "category": "TCP/IP",
+    "question": "Which protocol is connection-oriented?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UDP"
+      },
+      {
+        "id": "B",
+        "text": "TCP"
+      },
+      {
+        "id": "C",
+        "text": "ICMP"
+      },
+      {
+        "id": "D",
+        "text": "ARP"
+      }
+    ],
+    "correctAnswer": "TCP",
+    "difficulty": "easy"
+  },
+  {
+    "id": 33,
+    "category": "DNS",
+    "question": "What does DNS stand for?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Domain Name System"
+      },
+      {
+        "id": "B",
+        "text": "Dynamic Naming Service"
+      },
+      {
+        "id": "C",
+        "text": "Digital Network System"
+      },
+      {
+        "id": "D",
+        "text": "Domain Network Service"
+      }
+    ],
+    "correctAnswer": "Domain Name System",
+    "difficulty": "medium"
+  },
+  {
+    "id": 34,
+    "category": "HTTP",
+    "question": "What is the default port for HTTP?",
+    "options": [
+      {
+        "id": "A",
+        "text": "21"
+      },
+      {
+        "id": "B",
+        "text": "25"
+      },
+      {
+        "id": "C",
+        "text": "80"
+      },
+      {
+        "id": "D",
+        "text": "443"
+      }
+    ],
+    "correctAnswer": "80",
+    "difficulty": "hard"
+  },
+  {
+    "id": 35,
+    "category": "HTTPS",
+    "question": "What is the default port for HTTPS?",
+    "options": [
+      {
+        "id": "A",
+        "text": "20"
+      },
+      {
+        "id": "B",
+        "text": "22"
+      },
+      {
+        "id": "C",
+        "text": "443"
+      },
+      {
+        "id": "D",
+        "text": "8080"
+      }
+    ],
+    "correctAnswer": "443",
+    "difficulty": "easy"
+  },
+  {
+    "id": 36,
+    "category": "FTP",
+    "question": "Which protocol is used for file transfer?",
+    "options": [
+      {
+        "id": "A",
+        "text": "SMTP"
+      },
+      {
+        "id": "B",
+        "text": "FTP"
+      },
+      {
+        "id": "C",
+        "text": "DNS"
+      },
+      {
+        "id": "D",
+        "text": "SNMP"
+      }
+    ],
+    "correctAnswer": "FTP",
+    "difficulty": "hard"
+  },
+  {
+    "id": 37,
+    "category": "SMTP",
+    "question": "Which protocol is used for sending emails?",
+    "options": [
+      {
+        "id": "A",
+        "text": "POP3"
+      },
+      {
+        "id": "B",
+        "text": "IMAP"
+      },
+      {
+        "id": "C",
+        "text": "SMTP"
+      },
+      {
+        "id": "D",
+        "text": "ARP"
+      }
+    ],
+    "correctAnswer": "SMTP",
+    "difficulty": "medium"
+  },
+  {
+    "id": 38,
+    "category": "DHCP",
+    "question": "Which protocol automatically assigns IP addresses?",
+    "options": [
+      {
+        "id": "A",
+        "text": "DNS"
+      },
+      {
+        "id": "B",
+        "text": "DHCP"
+      },
+      {
+        "id": "C",
+        "text": "HTTP"
+      },
+      {
+        "id": "D",
+        "text": "FTP"
+      }
+    ],
+    "correctAnswer": "DHCP",
+    "difficulty": "medium"
+  },
+  {
+    "id": 39,
+    "category": "Router",
+    "question": "Which device connects multiple networks?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hub"
+      },
+      {
+        "id": "B",
+        "text": "Switch"
+      },
+      {
+        "id": "C",
+        "text": "Router"
+      },
+      {
+        "id": "D",
+        "text": "Bridge"
+      }
+    ],
+    "correctAnswer": "Router",
+    "difficulty": "easy"
+  },
+  {
+    "id": 40,
+    "category": "Switch",
+    "question": "Which device works at the Data Link layer?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Router"
+      },
+      {
+        "id": "B",
+        "text": "Hub"
+      },
+      {
+        "id": "C",
+        "text": "Switch"
+      },
+      {
+        "id": "D",
+        "text": "Gateway"
+      }
+    ],
+    "correctAnswer": "Switch",
+    "difficulty": "hard"
+  },
+  {
+    "id": 41,
+    "category": "OSI model",
+    "question": "Which layer of the OSI model handles routing?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Application"
+      },
+      {
+        "id": "B",
+        "text": "Transport"
+      },
+      {
+        "id": "C",
+        "text": "Network"
+      },
+      {
+        "id": "D",
+        "text": "Session"
+      }
+    ],
+    "correctAnswer": "Network",
+    "difficulty": "hard"
+  },
+  {
+    "id": 42,
+    "category": "TCP/IP",
+    "question": "Which protocol is connection-oriented?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UDP"
+      },
+      {
+        "id": "B",
+        "text": "TCP"
+      },
+      {
+        "id": "C",
+        "text": "ICMP"
+      },
+      {
+        "id": "D",
+        "text": "ARP"
+      }
+    ],
+    "correctAnswer": "TCP",
+    "difficulty": "easy"
+  },
+  {
+    "id": 43,
+    "category": "DNS",
+    "question": "What does DNS stand for?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Domain Name System"
+      },
+      {
+        "id": "B",
+        "text": "Dynamic Naming Service"
+      },
+      {
+        "id": "C",
+        "text": "Digital Network System"
+      },
+      {
+        "id": "D",
+        "text": "Domain Network Service"
+      }
+    ],
+    "correctAnswer": "Domain Name System",
+    "difficulty": "hard"
+  },
+  {
+    "id": 44,
+    "category": "HTTP",
+    "question": "What is the default port for HTTP?",
+    "options": [
+      {
+        "id": "A",
+        "text": "21"
+      },
+      {
+        "id": "B",
+        "text": "25"
+      },
+      {
+        "id": "C",
+        "text": "80"
+      },
+      {
+        "id": "D",
+        "text": "443"
+      }
+    ],
+    "correctAnswer": "80",
+    "difficulty": "easy"
+  },
+  {
+    "id": 45,
+    "category": "HTTPS",
+    "question": "What is the default port for HTTPS?",
+    "options": [
+      {
+        "id": "A",
+        "text": "20"
+      },
+      {
+        "id": "B",
+        "text": "22"
+      },
+      {
+        "id": "C",
+        "text": "443"
+      },
+      {
+        "id": "D",
+        "text": "8080"
+      }
+    ],
+    "correctAnswer": "443",
+    "difficulty": "easy"
+  },
+  {
+    "id": 46,
+    "category": "FTP",
+    "question": "Which protocol is used for file transfer?",
+    "options": [
+      {
+        "id": "A",
+        "text": "SMTP"
+      },
+      {
+        "id": "B",
+        "text": "FTP"
+      },
+      {
+        "id": "C",
+        "text": "DNS"
+      },
+      {
+        "id": "D",
+        "text": "SNMP"
+      }
+    ],
+    "correctAnswer": "FTP",
+    "difficulty": "medium"
+  },
+  {
+    "id": 47,
+    "category": "SMTP",
+    "question": "Which protocol is used for sending emails?",
+    "options": [
+      {
+        "id": "A",
+        "text": "POP3"
+      },
+      {
+        "id": "B",
+        "text": "IMAP"
+      },
+      {
+        "id": "C",
+        "text": "SMTP"
+      },
+      {
+        "id": "D",
+        "text": "ARP"
+      }
+    ],
+    "correctAnswer": "SMTP",
+    "difficulty": "easy"
+  },
+  {
+    "id": 48,
+    "category": "DHCP",
+    "question": "Which protocol automatically assigns IP addresses?",
+    "options": [
+      {
+        "id": "A",
+        "text": "DNS"
+      },
+      {
+        "id": "B",
+        "text": "DHCP"
+      },
+      {
+        "id": "C",
+        "text": "HTTP"
+      },
+      {
+        "id": "D",
+        "text": "FTP"
+      }
+    ],
+    "correctAnswer": "DHCP",
+    "difficulty": "easy"
+  },
+  {
+    "id": 49,
+    "category": "Router",
+    "question": "Which device connects multiple networks?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hub"
+      },
+      {
+        "id": "B",
+        "text": "Switch"
+      },
+      {
+        "id": "C",
+        "text": "Router"
+      },
+      {
+        "id": "D",
+        "text": "Bridge"
+      }
+    ],
+    "correctAnswer": "Router",
+    "difficulty": "easy"
+  },
+  {
+    "id": 50,
+    "category": "Switch",
+    "question": "Which device works at the Data Link layer?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Router"
+      },
+      {
+        "id": "B",
+        "text": "Hub"
+      },
+      {
+        "id": "C",
+        "text": "Switch"
+      },
+      {
+        "id": "D",
+        "text": "Gateway"
+      }
+    ],
+    "correctAnswer": "Switch",
+    "difficulty": "easy"
+  },
+  {
+    "id": 51,
+    "category": "OSI model",
+    "question": "Which layer of the OSI model handles routing?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Application"
+      },
+      {
+        "id": "B",
+        "text": "Transport"
+      },
+      {
+        "id": "C",
+        "text": "Network"
+      },
+      {
+        "id": "D",
+        "text": "Session"
+      }
+    ],
+    "correctAnswer": "Network",
+    "difficulty": "easy"
+  },
+  {
+    "id": 52,
+    "category": "TCP/IP",
+    "question": "Which protocol is connection-oriented?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UDP"
+      },
+      {
+        "id": "B",
+        "text": "TCP"
+      },
+      {
+        "id": "C",
+        "text": "ICMP"
+      },
+      {
+        "id": "D",
+        "text": "ARP"
+      }
+    ],
+    "correctAnswer": "TCP",
+    "difficulty": "easy"
+  },
+  {
+    "id": 53,
+    "category": "DNS",
+    "question": "What does DNS stand for?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Domain Name System"
+      },
+      {
+        "id": "B",
+        "text": "Dynamic Naming Service"
+      },
+      {
+        "id": "C",
+        "text": "Digital Network System"
+      },
+      {
+        "id": "D",
+        "text": "Domain Network Service"
+      }
+    ],
+    "correctAnswer": "Domain Name System",
+    "difficulty": "hard"
+  },
+  {
+    "id": 54,
+    "category": "HTTP",
+    "question": "What is the default port for HTTP?",
+    "options": [
+      {
+        "id": "A",
+        "text": "21"
+      },
+      {
+        "id": "B",
+        "text": "25"
+      },
+      {
+        "id": "C",
+        "text": "80"
+      },
+      {
+        "id": "D",
+        "text": "443"
+      }
+    ],
+    "correctAnswer": "80",
+    "difficulty": "hard"
+  },
+  {
+    "id": 55,
+    "category": "HTTPS",
+    "question": "What is the default port for HTTPS?",
+    "options": [
+      {
+        "id": "A",
+        "text": "20"
+      },
+      {
+        "id": "B",
+        "text": "22"
+      },
+      {
+        "id": "C",
+        "text": "443"
+      },
+      {
+        "id": "D",
+        "text": "8080"
+      }
+    ],
+    "correctAnswer": "443",
+    "difficulty": "hard"
+  },
+  {
+    "id": 56,
+    "category": "FTP",
+    "question": "Which protocol is used for file transfer?",
+    "options": [
+      {
+        "id": "A",
+        "text": "SMTP"
+      },
+      {
+        "id": "B",
+        "text": "FTP"
+      },
+      {
+        "id": "C",
+        "text": "DNS"
+      },
+      {
+        "id": "D",
+        "text": "SNMP"
+      }
+    ],
+    "correctAnswer": "FTP",
+    "difficulty": "medium"
+  },
+  {
+    "id": 57,
+    "category": "SMTP",
+    "question": "Which protocol is used for sending emails?",
+    "options": [
+      {
+        "id": "A",
+        "text": "POP3"
+      },
+      {
+        "id": "B",
+        "text": "IMAP"
+      },
+      {
+        "id": "C",
+        "text": "SMTP"
+      },
+      {
+        "id": "D",
+        "text": "ARP"
+      }
+    ],
+    "correctAnswer": "SMTP",
+    "difficulty": "hard"
+  },
+  {
+    "id": 58,
+    "category": "DHCP",
+    "question": "Which protocol automatically assigns IP addresses?",
+    "options": [
+      {
+        "id": "A",
+        "text": "DNS"
+      },
+      {
+        "id": "B",
+        "text": "DHCP"
+      },
+      {
+        "id": "C",
+        "text": "HTTP"
+      },
+      {
+        "id": "D",
+        "text": "FTP"
+      }
+    ],
+    "correctAnswer": "DHCP",
+    "difficulty": "medium"
+  },
+  {
+    "id": 59,
+    "category": "Router",
+    "question": "Which device connects multiple networks?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hub"
+      },
+      {
+        "id": "B",
+        "text": "Switch"
+      },
+      {
+        "id": "C",
+        "text": "Router"
+      },
+      {
+        "id": "D",
+        "text": "Bridge"
+      }
+    ],
+    "correctAnswer": "Router",
+    "difficulty": "easy"
+  },
+  {
+    "id": 60,
+    "category": "Switch",
+    "question": "Which device works at the Data Link layer?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Router"
+      },
+      {
+        "id": "B",
+        "text": "Hub"
+      },
+      {
+        "id": "C",
+        "text": "Switch"
+      },
+      {
+        "id": "D",
+        "text": "Gateway"
+      }
+    ],
+    "correctAnswer": "Switch",
+    "difficulty": "hard"
+  },
+  {
+    "id": 61,
+    "category": "OSI model",
+    "question": "Which layer of the OSI model handles routing?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Application"
+      },
+      {
+        "id": "B",
+        "text": "Transport"
+      },
+      {
+        "id": "C",
+        "text": "Network"
+      },
+      {
+        "id": "D",
+        "text": "Session"
+      }
+    ],
+    "correctAnswer": "Network",
+    "difficulty": "hard"
+  },
+  {
+    "id": 62,
+    "category": "TCP/IP",
+    "question": "Which protocol is connection-oriented?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UDP"
+      },
+      {
+        "id": "B",
+        "text": "TCP"
+      },
+      {
+        "id": "C",
+        "text": "ICMP"
+      },
+      {
+        "id": "D",
+        "text": "ARP"
+      }
+    ],
+    "correctAnswer": "TCP",
+    "difficulty": "hard"
+  },
+  {
+    "id": 63,
+    "category": "DNS",
+    "question": "What does DNS stand for?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Domain Name System"
+      },
+      {
+        "id": "B",
+        "text": "Dynamic Naming Service"
+      },
+      {
+        "id": "C",
+        "text": "Digital Network System"
+      },
+      {
+        "id": "D",
+        "text": "Domain Network Service"
+      }
+    ],
+    "correctAnswer": "Domain Name System",
+    "difficulty": "hard"
+  },
+  {
+    "id": 64,
+    "category": "HTTP",
+    "question": "What is the default port for HTTP?",
+    "options": [
+      {
+        "id": "A",
+        "text": "21"
+      },
+      {
+        "id": "B",
+        "text": "25"
+      },
+      {
+        "id": "C",
+        "text": "80"
+      },
+      {
+        "id": "D",
+        "text": "443"
+      }
+    ],
+    "correctAnswer": "80",
+    "difficulty": "easy"
+  },
+  {
+    "id": 65,
+    "category": "HTTPS",
+    "question": "What is the default port for HTTPS?",
+    "options": [
+      {
+        "id": "A",
+        "text": "20"
+      },
+      {
+        "id": "B",
+        "text": "22"
+      },
+      {
+        "id": "C",
+        "text": "443"
+      },
+      {
+        "id": "D",
+        "text": "8080"
+      }
+    ],
+    "correctAnswer": "443",
+    "difficulty": "easy"
+  },
+  {
+    "id": 66,
+    "category": "FTP",
+    "question": "Which protocol is used for file transfer?",
+    "options": [
+      {
+        "id": "A",
+        "text": "SMTP"
+      },
+      {
+        "id": "B",
+        "text": "FTP"
+      },
+      {
+        "id": "C",
+        "text": "DNS"
+      },
+      {
+        "id": "D",
+        "text": "SNMP"
+      }
+    ],
+    "correctAnswer": "FTP",
+    "difficulty": "easy"
+  },
+  {
+    "id": 67,
+    "category": "SMTP",
+    "question": "Which protocol is used for sending emails?",
+    "options": [
+      {
+        "id": "A",
+        "text": "POP3"
+      },
+      {
+        "id": "B",
+        "text": "IMAP"
+      },
+      {
+        "id": "C",
+        "text": "SMTP"
+      },
+      {
+        "id": "D",
+        "text": "ARP"
+      }
+    ],
+    "correctAnswer": "SMTP",
+    "difficulty": "medium"
+  },
+  {
+    "id": 68,
+    "category": "DHCP",
+    "question": "Which protocol automatically assigns IP addresses?",
+    "options": [
+      {
+        "id": "A",
+        "text": "DNS"
+      },
+      {
+        "id": "B",
+        "text": "DHCP"
+      },
+      {
+        "id": "C",
+        "text": "HTTP"
+      },
+      {
+        "id": "D",
+        "text": "FTP"
+      }
+    ],
+    "correctAnswer": "DHCP",
+    "difficulty": "hard"
+  },
+  {
+    "id": 69,
+    "category": "Router",
+    "question": "Which device connects multiple networks?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hub"
+      },
+      {
+        "id": "B",
+        "text": "Switch"
+      },
+      {
+        "id": "C",
+        "text": "Router"
+      },
+      {
+        "id": "D",
+        "text": "Bridge"
+      }
+    ],
+    "correctAnswer": "Router",
+    "difficulty": "medium"
+  },
+  {
+    "id": 70,
+    "category": "Switch",
+    "question": "Which device works at the Data Link layer?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Router"
+      },
+      {
+        "id": "B",
+        "text": "Hub"
+      },
+      {
+        "id": "C",
+        "text": "Switch"
+      },
+      {
+        "id": "D",
+        "text": "Gateway"
+      }
+    ],
+    "correctAnswer": "Switch",
+    "difficulty": "medium"
+  },
+  {
+    "id": 71,
+    "category": "OSI model",
+    "question": "Which layer of the OSI model handles routing?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Application"
+      },
+      {
+        "id": "B",
+        "text": "Transport"
+      },
+      {
+        "id": "C",
+        "text": "Network"
+      },
+      {
+        "id": "D",
+        "text": "Session"
+      }
+    ],
+    "correctAnswer": "Network",
+    "difficulty": "hard"
+  },
+  {
+    "id": 72,
+    "category": "TCP/IP",
+    "question": "Which protocol is connection-oriented?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UDP"
+      },
+      {
+        "id": "B",
+        "text": "TCP"
+      },
+      {
+        "id": "C",
+        "text": "ICMP"
+      },
+      {
+        "id": "D",
+        "text": "ARP"
+      }
+    ],
+    "correctAnswer": "TCP",
+    "difficulty": "hard"
+  },
+  {
+    "id": 73,
+    "category": "DNS",
+    "question": "What does DNS stand for?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Domain Name System"
+      },
+      {
+        "id": "B",
+        "text": "Dynamic Naming Service"
+      },
+      {
+        "id": "C",
+        "text": "Digital Network System"
+      },
+      {
+        "id": "D",
+        "text": "Domain Network Service"
+      }
+    ],
+    "correctAnswer": "Domain Name System",
+    "difficulty": "medium"
+  },
+  {
+    "id": 74,
+    "category": "HTTP",
+    "question": "What is the default port for HTTP?",
+    "options": [
+      {
+        "id": "A",
+        "text": "21"
+      },
+      {
+        "id": "B",
+        "text": "25"
+      },
+      {
+        "id": "C",
+        "text": "80"
+      },
+      {
+        "id": "D",
+        "text": "443"
+      }
+    ],
+    "correctAnswer": "80",
+    "difficulty": "hard"
+  },
+  {
+    "id": 75,
+    "category": "HTTPS",
+    "question": "What is the default port for HTTPS?",
+    "options": [
+      {
+        "id": "A",
+        "text": "20"
+      },
+      {
+        "id": "B",
+        "text": "22"
+      },
+      {
+        "id": "C",
+        "text": "443"
+      },
+      {
+        "id": "D",
+        "text": "8080"
+      }
+    ],
+    "correctAnswer": "443",
+    "difficulty": "medium"
+  },
+  {
+    "id": 76,
+    "category": "FTP",
+    "question": "Which protocol is used for file transfer?",
+    "options": [
+      {
+        "id": "A",
+        "text": "SMTP"
+      },
+      {
+        "id": "B",
+        "text": "FTP"
+      },
+      {
+        "id": "C",
+        "text": "DNS"
+      },
+      {
+        "id": "D",
+        "text": "SNMP"
+      }
+    ],
+    "correctAnswer": "FTP",
+    "difficulty": "easy"
+  },
+  {
+    "id": 77,
+    "category": "SMTP",
+    "question": "Which protocol is used for sending emails?",
+    "options": [
+      {
+        "id": "A",
+        "text": "POP3"
+      },
+      {
+        "id": "B",
+        "text": "IMAP"
+      },
+      {
+        "id": "C",
+        "text": "SMTP"
+      },
+      {
+        "id": "D",
+        "text": "ARP"
+      }
+    ],
+    "correctAnswer": "SMTP",
+    "difficulty": "medium"
+  },
+  {
+    "id": 78,
+    "category": "DHCP",
+    "question": "Which protocol automatically assigns IP addresses?",
+    "options": [
+      {
+        "id": "A",
+        "text": "DNS"
+      },
+      {
+        "id": "B",
+        "text": "DHCP"
+      },
+      {
+        "id": "C",
+        "text": "HTTP"
+      },
+      {
+        "id": "D",
+        "text": "FTP"
+      }
+    ],
+    "correctAnswer": "DHCP",
+    "difficulty": "easy"
+  },
+  {
+    "id": 79,
+    "category": "Router",
+    "question": "Which device connects multiple networks?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hub"
+      },
+      {
+        "id": "B",
+        "text": "Switch"
+      },
+      {
+        "id": "C",
+        "text": "Router"
+      },
+      {
+        "id": "D",
+        "text": "Bridge"
+      }
+    ],
+    "correctAnswer": "Router",
+    "difficulty": "easy"
+  },
+  {
+    "id": 80,
+    "category": "Switch",
+    "question": "Which device works at the Data Link layer?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Router"
+      },
+      {
+        "id": "B",
+        "text": "Hub"
+      },
+      {
+        "id": "C",
+        "text": "Switch"
+      },
+      {
+        "id": "D",
+        "text": "Gateway"
+      }
+    ],
+    "correctAnswer": "Switch",
+    "difficulty": "medium"
+  },
+  {
+    "id": 81,
+    "category": "OSI model",
+    "question": "Which layer of the OSI model handles routing?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Application"
+      },
+      {
+        "id": "B",
+        "text": "Transport"
+      },
+      {
+        "id": "C",
+        "text": "Network"
+      },
+      {
+        "id": "D",
+        "text": "Session"
+      }
+    ],
+    "correctAnswer": "Network",
+    "difficulty": "hard"
+  },
+  {
+    "id": 82,
+    "category": "TCP/IP",
+    "question": "Which protocol is connection-oriented?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UDP"
+      },
+      {
+        "id": "B",
+        "text": "TCP"
+      },
+      {
+        "id": "C",
+        "text": "ICMP"
+      },
+      {
+        "id": "D",
+        "text": "ARP"
+      }
+    ],
+    "correctAnswer": "TCP",
+    "difficulty": "medium"
+  },
+  {
+    "id": 83,
+    "category": "DNS",
+    "question": "What does DNS stand for?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Domain Name System"
+      },
+      {
+        "id": "B",
+        "text": "Dynamic Naming Service"
+      },
+      {
+        "id": "C",
+        "text": "Digital Network System"
+      },
+      {
+        "id": "D",
+        "text": "Domain Network Service"
+      }
+    ],
+    "correctAnswer": "Domain Name System",
+    "difficulty": "medium"
+  },
+  {
+    "id": 84,
+    "category": "HTTP",
+    "question": "What is the default port for HTTP?",
+    "options": [
+      {
+        "id": "A",
+        "text": "21"
+      },
+      {
+        "id": "B",
+        "text": "25"
+      },
+      {
+        "id": "C",
+        "text": "80"
+      },
+      {
+        "id": "D",
+        "text": "443"
+      }
+    ],
+    "correctAnswer": "80",
+    "difficulty": "medium"
+  },
+  {
+    "id": 85,
+    "category": "HTTPS",
+    "question": "What is the default port for HTTPS?",
+    "options": [
+      {
+        "id": "A",
+        "text": "20"
+      },
+      {
+        "id": "B",
+        "text": "22"
+      },
+      {
+        "id": "C",
+        "text": "443"
+      },
+      {
+        "id": "D",
+        "text": "8080"
+      }
+    ],
+    "correctAnswer": "443",
+    "difficulty": "easy"
+  },
+  {
+    "id": 86,
+    "category": "FTP",
+    "question": "Which protocol is used for file transfer?",
+    "options": [
+      {
+        "id": "A",
+        "text": "SMTP"
+      },
+      {
+        "id": "B",
+        "text": "FTP"
+      },
+      {
+        "id": "C",
+        "text": "DNS"
+      },
+      {
+        "id": "D",
+        "text": "SNMP"
+      }
+    ],
+    "correctAnswer": "FTP",
+    "difficulty": "easy"
+  },
+  {
+    "id": 87,
+    "category": "SMTP",
+    "question": "Which protocol is used for sending emails?",
+    "options": [
+      {
+        "id": "A",
+        "text": "POP3"
+      },
+      {
+        "id": "B",
+        "text": "IMAP"
+      },
+      {
+        "id": "C",
+        "text": "SMTP"
+      },
+      {
+        "id": "D",
+        "text": "ARP"
+      }
+    ],
+    "correctAnswer": "SMTP",
+    "difficulty": "easy"
+  },
+  {
+    "id": 88,
+    "category": "DHCP",
+    "question": "Which protocol automatically assigns IP addresses?",
+    "options": [
+      {
+        "id": "A",
+        "text": "DNS"
+      },
+      {
+        "id": "B",
+        "text": "DHCP"
+      },
+      {
+        "id": "C",
+        "text": "HTTP"
+      },
+      {
+        "id": "D",
+        "text": "FTP"
+      }
+    ],
+    "correctAnswer": "DHCP",
+    "difficulty": "hard"
+  },
+  {
+    "id": 89,
+    "category": "Router",
+    "question": "Which device connects multiple networks?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hub"
+      },
+      {
+        "id": "B",
+        "text": "Switch"
+      },
+      {
+        "id": "C",
+        "text": "Router"
+      },
+      {
+        "id": "D",
+        "text": "Bridge"
+      }
+    ],
+    "correctAnswer": "Router",
+    "difficulty": "medium"
+  },
+  {
+    "id": 90,
+    "category": "Switch",
+    "question": "Which device works at the Data Link layer?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Router"
+      },
+      {
+        "id": "B",
+        "text": "Hub"
+      },
+      {
+        "id": "C",
+        "text": "Switch"
+      },
+      {
+        "id": "D",
+        "text": "Gateway"
+      }
+    ],
+    "correctAnswer": "Switch",
+    "difficulty": "easy"
+  },
+  {
+    "id": 91,
+    "category": "OSI model",
+    "question": "Which layer of the OSI model handles routing?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Application"
+      },
+      {
+        "id": "B",
+        "text": "Transport"
+      },
+      {
+        "id": "C",
+        "text": "Network"
+      },
+      {
+        "id": "D",
+        "text": "Session"
+      }
+    ],
+    "correctAnswer": "Network",
+    "difficulty": "medium"
+  },
+  {
+    "id": 92,
+    "category": "TCP/IP",
+    "question": "Which protocol is connection-oriented?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UDP"
+      },
+      {
+        "id": "B",
+        "text": "TCP"
+      },
+      {
+        "id": "C",
+        "text": "ICMP"
+      },
+      {
+        "id": "D",
+        "text": "ARP"
+      }
+    ],
+    "correctAnswer": "TCP",
+    "difficulty": "hard"
+  },
+  {
+    "id": 93,
+    "category": "DNS",
+    "question": "What does DNS stand for?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Domain Name System"
+      },
+      {
+        "id": "B",
+        "text": "Dynamic Naming Service"
+      },
+      {
+        "id": "C",
+        "text": "Digital Network System"
+      },
+      {
+        "id": "D",
+        "text": "Domain Network Service"
+      }
+    ],
+    "correctAnswer": "Domain Name System",
+    "difficulty": "medium"
+  },
+  {
+    "id": 94,
+    "category": "HTTP",
+    "question": "What is the default port for HTTP?",
+    "options": [
+      {
+        "id": "A",
+        "text": "21"
+      },
+      {
+        "id": "B",
+        "text": "25"
+      },
+      {
+        "id": "C",
+        "text": "80"
+      },
+      {
+        "id": "D",
+        "text": "443"
+      }
+    ],
+    "correctAnswer": "80",
+    "difficulty": "easy"
+  },
+  {
+    "id": 95,
+    "category": "HTTPS",
+    "question": "What is the default port for HTTPS?",
+    "options": [
+      {
+        "id": "A",
+        "text": "20"
+      },
+      {
+        "id": "B",
+        "text": "22"
+      },
+      {
+        "id": "C",
+        "text": "443"
+      },
+      {
+        "id": "D",
+        "text": "8080"
+      }
+    ],
+    "correctAnswer": "443",
+    "difficulty": "hard"
+  },
+  {
+    "id": 96,
+    "category": "FTP",
+    "question": "Which protocol is used for file transfer?",
+    "options": [
+      {
+        "id": "A",
+        "text": "SMTP"
+      },
+      {
+        "id": "B",
+        "text": "FTP"
+      },
+      {
+        "id": "C",
+        "text": "DNS"
+      },
+      {
+        "id": "D",
+        "text": "SNMP"
+      }
+    ],
+    "correctAnswer": "FTP",
+    "difficulty": "medium"
+  },
+  {
+    "id": 97,
+    "category": "SMTP",
+    "question": "Which protocol is used for sending emails?",
+    "options": [
+      {
+        "id": "A",
+        "text": "POP3"
+      },
+      {
+        "id": "B",
+        "text": "IMAP"
+      },
+      {
+        "id": "C",
+        "text": "SMTP"
+      },
+      {
+        "id": "D",
+        "text": "ARP"
+      }
+    ],
+    "correctAnswer": "SMTP",
+    "difficulty": "medium"
+  },
+  {
+    "id": 98,
+    "category": "DHCP",
+    "question": "Which protocol automatically assigns IP addresses?",
+    "options": [
+      {
+        "id": "A",
+        "text": "DNS"
+      },
+      {
+        "id": "B",
+        "text": "DHCP"
+      },
+      {
+        "id": "C",
+        "text": "HTTP"
+      },
+      {
+        "id": "D",
+        "text": "FTP"
+      }
+    ],
+    "correctAnswer": "DHCP",
+    "difficulty": "medium"
+  },
+  {
+    "id": 99,
+    "category": "Router",
+    "question": "Which device connects multiple networks?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hub"
+      },
+      {
+        "id": "B",
+        "text": "Switch"
+      },
+      {
+        "id": "C",
+        "text": "Router"
+      },
+      {
+        "id": "D",
+        "text": "Bridge"
+      }
+    ],
+    "correctAnswer": "Router",
+    "difficulty": "medium"
+  },
+  {
+    "id": 100,
+    "category": "Switch",
+    "question": "Which device works at the Data Link layer?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Router"
+      },
+      {
+        "id": "B",
+        "text": "Hub"
+      },
+      {
+        "id": "C",
+        "text": "Switch"
+      },
+      {
+        "id": "D",
+        "text": "Gateway"
+      }
+    ],
+    "correctAnswer": "Switch",
+    "difficulty": "medium"
+  },
+  {
+    "id": 101,
+    "category": "OSI model",
+    "question": "Which layer of the OSI model handles routing?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Application"
+      },
+      {
+        "id": "B",
+        "text": "Transport"
+      },
+      {
+        "id": "C",
+        "text": "Network"
+      },
+      {
+        "id": "D",
+        "text": "Session"
+      }
+    ],
+    "correctAnswer": "Network",
+    "difficulty": "medium"
+  },
+  {
+    "id": 102,
+    "category": "TCP/IP",
+    "question": "Which protocol is connection-oriented?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UDP"
+      },
+      {
+        "id": "B",
+        "text": "TCP"
+      },
+      {
+        "id": "C",
+        "text": "ICMP"
+      },
+      {
+        "id": "D",
+        "text": "ARP"
+      }
+    ],
+    "correctAnswer": "TCP",
+    "difficulty": "medium"
+  },
+  {
+    "id": 103,
+    "category": "DNS",
+    "question": "What does DNS stand for?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Domain Name System"
+      },
+      {
+        "id": "B",
+        "text": "Dynamic Naming Service"
+      },
+      {
+        "id": "C",
+        "text": "Digital Network System"
+      },
+      {
+        "id": "D",
+        "text": "Domain Network Service"
+      }
+    ],
+    "correctAnswer": "Domain Name System",
+    "difficulty": "hard"
+  },
+  {
+    "id": 104,
+    "category": "HTTP",
+    "question": "What is the default port for HTTP?",
+    "options": [
+      {
+        "id": "A",
+        "text": "21"
+      },
+      {
+        "id": "B",
+        "text": "25"
+      },
+      {
+        "id": "C",
+        "text": "80"
+      },
+      {
+        "id": "D",
+        "text": "443"
+      }
+    ],
+    "correctAnswer": "80",
+    "difficulty": "medium"
+  },
+  {
+    "id": 105,
+    "category": "HTTPS",
+    "question": "What is the default port for HTTPS?",
+    "options": [
+      {
+        "id": "A",
+        "text": "20"
+      },
+      {
+        "id": "B",
+        "text": "22"
+      },
+      {
+        "id": "C",
+        "text": "443"
+      },
+      {
+        "id": "D",
+        "text": "8080"
+      }
+    ],
+    "correctAnswer": "443",
+    "difficulty": "medium"
+  },
+  {
+    "id": 106,
+    "category": "FTP",
+    "question": "Which protocol is used for file transfer?",
+    "options": [
+      {
+        "id": "A",
+        "text": "SMTP"
+      },
+      {
+        "id": "B",
+        "text": "FTP"
+      },
+      {
+        "id": "C",
+        "text": "DNS"
+      },
+      {
+        "id": "D",
+        "text": "SNMP"
+      }
+    ],
+    "correctAnswer": "FTP",
+    "difficulty": "hard"
+  },
+  {
+    "id": 107,
+    "category": "SMTP",
+    "question": "Which protocol is used for sending emails?",
+    "options": [
+      {
+        "id": "A",
+        "text": "POP3"
+      },
+      {
+        "id": "B",
+        "text": "IMAP"
+      },
+      {
+        "id": "C",
+        "text": "SMTP"
+      },
+      {
+        "id": "D",
+        "text": "ARP"
+      }
+    ],
+    "correctAnswer": "SMTP",
+    "difficulty": "medium"
+  },
+  {
+    "id": 108,
+    "category": "DHCP",
+    "question": "Which protocol automatically assigns IP addresses?",
+    "options": [
+      {
+        "id": "A",
+        "text": "DNS"
+      },
+      {
+        "id": "B",
+        "text": "DHCP"
+      },
+      {
+        "id": "C",
+        "text": "HTTP"
+      },
+      {
+        "id": "D",
+        "text": "FTP"
+      }
+    ],
+    "correctAnswer": "DHCP",
+    "difficulty": "easy"
+  },
+  {
+    "id": 109,
+    "category": "Router",
+    "question": "Which device connects multiple networks?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hub"
+      },
+      {
+        "id": "B",
+        "text": "Switch"
+      },
+      {
+        "id": "C",
+        "text": "Router"
+      },
+      {
+        "id": "D",
+        "text": "Bridge"
+      }
+    ],
+    "correctAnswer": "Router",
+    "difficulty": "hard"
+  },
+  {
+    "id": 110,
+    "category": "Switch",
+    "question": "Which device works at the Data Link layer?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Router"
+      },
+      {
+        "id": "B",
+        "text": "Hub"
+      },
+      {
+        "id": "C",
+        "text": "Switch"
+      },
+      {
+        "id": "D",
+        "text": "Gateway"
+      }
+    ],
+    "correctAnswer": "Switch",
+    "difficulty": "hard"
+  },
+  {
+    "id": 111,
+    "category": "OSI model",
+    "question": "Which layer of the OSI model handles routing?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Application"
+      },
+      {
+        "id": "B",
+        "text": "Transport"
+      },
+      {
+        "id": "C",
+        "text": "Network"
+      },
+      {
+        "id": "D",
+        "text": "Session"
+      }
+    ],
+    "correctAnswer": "Network",
+    "difficulty": "hard"
+  },
+  {
+    "id": 112,
+    "category": "TCP/IP",
+    "question": "Which protocol is connection-oriented?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UDP"
+      },
+      {
+        "id": "B",
+        "text": "TCP"
+      },
+      {
+        "id": "C",
+        "text": "ICMP"
+      },
+      {
+        "id": "D",
+        "text": "ARP"
+      }
+    ],
+    "correctAnswer": "TCP",
+    "difficulty": "easy"
+  },
+  {
+    "id": 113,
+    "category": "DNS",
+    "question": "What does DNS stand for?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Domain Name System"
+      },
+      {
+        "id": "B",
+        "text": "Dynamic Naming Service"
+      },
+      {
+        "id": "C",
+        "text": "Digital Network System"
+      },
+      {
+        "id": "D",
+        "text": "Domain Network Service"
+      }
+    ],
+    "correctAnswer": "Domain Name System",
+    "difficulty": "medium"
+  },
+  {
+    "id": 114,
+    "category": "HTTP",
+    "question": "What is the default port for HTTP?",
+    "options": [
+      {
+        "id": "A",
+        "text": "21"
+      },
+      {
+        "id": "B",
+        "text": "25"
+      },
+      {
+        "id": "C",
+        "text": "80"
+      },
+      {
+        "id": "D",
+        "text": "443"
+      }
+    ],
+    "correctAnswer": "80",
+    "difficulty": "medium"
+  },
+  {
+    "id": 115,
+    "category": "HTTPS",
+    "question": "What is the default port for HTTPS?",
+    "options": [
+      {
+        "id": "A",
+        "text": "20"
+      },
+      {
+        "id": "B",
+        "text": "22"
+      },
+      {
+        "id": "C",
+        "text": "443"
+      },
+      {
+        "id": "D",
+        "text": "8080"
+      }
+    ],
+    "correctAnswer": "443",
+    "difficulty": "easy"
+  },
+  {
+    "id": 116,
+    "category": "FTP",
+    "question": "Which protocol is used for file transfer?",
+    "options": [
+      {
+        "id": "A",
+        "text": "SMTP"
+      },
+      {
+        "id": "B",
+        "text": "FTP"
+      },
+      {
+        "id": "C",
+        "text": "DNS"
+      },
+      {
+        "id": "D",
+        "text": "SNMP"
+      }
+    ],
+    "correctAnswer": "FTP",
+    "difficulty": "medium"
+  },
+  {
+    "id": 117,
+    "category": "SMTP",
+    "question": "Which protocol is used for sending emails?",
+    "options": [
+      {
+        "id": "A",
+        "text": "POP3"
+      },
+      {
+        "id": "B",
+        "text": "IMAP"
+      },
+      {
+        "id": "C",
+        "text": "SMTP"
+      },
+      {
+        "id": "D",
+        "text": "ARP"
+      }
+    ],
+    "correctAnswer": "SMTP",
+    "difficulty": "hard"
+  },
+  {
+    "id": 118,
+    "category": "DHCP",
+    "question": "Which protocol automatically assigns IP addresses?",
+    "options": [
+      {
+        "id": "A",
+        "text": "DNS"
+      },
+      {
+        "id": "B",
+        "text": "DHCP"
+      },
+      {
+        "id": "C",
+        "text": "HTTP"
+      },
+      {
+        "id": "D",
+        "text": "FTP"
+      }
+    ],
+    "correctAnswer": "DHCP",
+    "difficulty": "easy"
+  },
+  {
+    "id": 119,
+    "category": "Router",
+    "question": "Which device connects multiple networks?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hub"
+      },
+      {
+        "id": "B",
+        "text": "Switch"
+      },
+      {
+        "id": "C",
+        "text": "Router"
+      },
+      {
+        "id": "D",
+        "text": "Bridge"
+      }
+    ],
+    "correctAnswer": "Router",
+    "difficulty": "hard"
+  },
+  {
+    "id": 120,
+    "category": "Switch",
+    "question": "Which device works at the Data Link layer?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Router"
+      },
+      {
+        "id": "B",
+        "text": "Hub"
+      },
+      {
+        "id": "C",
+        "text": "Switch"
+      },
+      {
+        "id": "D",
+        "text": "Gateway"
+      }
+    ],
+    "correctAnswer": "Switch",
+    "difficulty": "easy"
+  },
+  {
+    "id": 121,
+    "category": "OSI model",
+    "question": "Which layer of the OSI model handles routing?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Application"
+      },
+      {
+        "id": "B",
+        "text": "Transport"
+      },
+      {
+        "id": "C",
+        "text": "Network"
+      },
+      {
+        "id": "D",
+        "text": "Session"
+      }
+    ],
+    "correctAnswer": "Network",
+    "difficulty": "easy"
+  },
+  {
+    "id": 122,
+    "category": "TCP/IP",
+    "question": "Which protocol is connection-oriented?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UDP"
+      },
+      {
+        "id": "B",
+        "text": "TCP"
+      },
+      {
+        "id": "C",
+        "text": "ICMP"
+      },
+      {
+        "id": "D",
+        "text": "ARP"
+      }
+    ],
+    "correctAnswer": "TCP",
+    "difficulty": "easy"
+  },
+  {
+    "id": 123,
+    "category": "DNS",
+    "question": "What does DNS stand for?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Domain Name System"
+      },
+      {
+        "id": "B",
+        "text": "Dynamic Naming Service"
+      },
+      {
+        "id": "C",
+        "text": "Digital Network System"
+      },
+      {
+        "id": "D",
+        "text": "Domain Network Service"
+      }
+    ],
+    "correctAnswer": "Domain Name System",
+    "difficulty": "easy"
+  },
+  {
+    "id": 124,
+    "category": "HTTP",
+    "question": "What is the default port for HTTP?",
+    "options": [
+      {
+        "id": "A",
+        "text": "21"
+      },
+      {
+        "id": "B",
+        "text": "25"
+      },
+      {
+        "id": "C",
+        "text": "80"
+      },
+      {
+        "id": "D",
+        "text": "443"
+      }
+    ],
+    "correctAnswer": "80",
+    "difficulty": "medium"
+  },
+  {
+    "id": 125,
+    "category": "HTTPS",
+    "question": "What is the default port for HTTPS?",
+    "options": [
+      {
+        "id": "A",
+        "text": "20"
+      },
+      {
+        "id": "B",
+        "text": "22"
+      },
+      {
+        "id": "C",
+        "text": "443"
+      },
+      {
+        "id": "D",
+        "text": "8080"
+      }
+    ],
+    "correctAnswer": "443",
+    "difficulty": "medium"
+  },
+  {
+    "id": 126,
+    "category": "FTP",
+    "question": "Which protocol is used for file transfer?",
+    "options": [
+      {
+        "id": "A",
+        "text": "SMTP"
+      },
+      {
+        "id": "B",
+        "text": "FTP"
+      },
+      {
+        "id": "C",
+        "text": "DNS"
+      },
+      {
+        "id": "D",
+        "text": "SNMP"
+      }
+    ],
+    "correctAnswer": "FTP",
+    "difficulty": "easy"
+  },
+  {
+    "id": 127,
+    "category": "SMTP",
+    "question": "Which protocol is used for sending emails?",
+    "options": [
+      {
+        "id": "A",
+        "text": "POP3"
+      },
+      {
+        "id": "B",
+        "text": "IMAP"
+      },
+      {
+        "id": "C",
+        "text": "SMTP"
+      },
+      {
+        "id": "D",
+        "text": "ARP"
+      }
+    ],
+    "correctAnswer": "SMTP",
+    "difficulty": "hard"
+  },
+  {
+    "id": 128,
+    "category": "DHCP",
+    "question": "Which protocol automatically assigns IP addresses?",
+    "options": [
+      {
+        "id": "A",
+        "text": "DNS"
+      },
+      {
+        "id": "B",
+        "text": "DHCP"
+      },
+      {
+        "id": "C",
+        "text": "HTTP"
+      },
+      {
+        "id": "D",
+        "text": "FTP"
+      }
+    ],
+    "correctAnswer": "DHCP",
+    "difficulty": "hard"
+  },
+  {
+    "id": 129,
+    "category": "Router",
+    "question": "Which device connects multiple networks?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hub"
+      },
+      {
+        "id": "B",
+        "text": "Switch"
+      },
+      {
+        "id": "C",
+        "text": "Router"
+      },
+      {
+        "id": "D",
+        "text": "Bridge"
+      }
+    ],
+    "correctAnswer": "Router",
+    "difficulty": "medium"
+  },
+  {
+    "id": 130,
+    "category": "Switch",
+    "question": "Which device works at the Data Link layer?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Router"
+      },
+      {
+        "id": "B",
+        "text": "Hub"
+      },
+      {
+        "id": "C",
+        "text": "Switch"
+      },
+      {
+        "id": "D",
+        "text": "Gateway"
+      }
+    ],
+    "correctAnswer": "Switch",
+    "difficulty": "medium"
+  },
+  {
+    "id": 131,
+    "category": "OSI model",
+    "question": "Which layer of the OSI model handles routing?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Application"
+      },
+      {
+        "id": "B",
+        "text": "Transport"
+      },
+      {
+        "id": "C",
+        "text": "Network"
+      },
+      {
+        "id": "D",
+        "text": "Session"
+      }
+    ],
+    "correctAnswer": "Network",
+    "difficulty": "easy"
+  },
+  {
+    "id": 132,
+    "category": "TCP/IP",
+    "question": "Which protocol is connection-oriented?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UDP"
+      },
+      {
+        "id": "B",
+        "text": "TCP"
+      },
+      {
+        "id": "C",
+        "text": "ICMP"
+      },
+      {
+        "id": "D",
+        "text": "ARP"
+      }
+    ],
+    "correctAnswer": "TCP",
+    "difficulty": "medium"
+  },
+  {
+    "id": 133,
+    "category": "DNS",
+    "question": "What does DNS stand for?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Domain Name System"
+      },
+      {
+        "id": "B",
+        "text": "Dynamic Naming Service"
+      },
+      {
+        "id": "C",
+        "text": "Digital Network System"
+      },
+      {
+        "id": "D",
+        "text": "Domain Network Service"
+      }
+    ],
+    "correctAnswer": "Domain Name System",
+    "difficulty": "medium"
+  },
+  {
+    "id": 134,
+    "category": "HTTP",
+    "question": "What is the default port for HTTP?",
+    "options": [
+      {
+        "id": "A",
+        "text": "21"
+      },
+      {
+        "id": "B",
+        "text": "25"
+      },
+      {
+        "id": "C",
+        "text": "80"
+      },
+      {
+        "id": "D",
+        "text": "443"
+      }
+    ],
+    "correctAnswer": "80",
+    "difficulty": "hard"
+  },
+  {
+    "id": 135,
+    "category": "HTTPS",
+    "question": "What is the default port for HTTPS?",
+    "options": [
+      {
+        "id": "A",
+        "text": "20"
+      },
+      {
+        "id": "B",
+        "text": "22"
+      },
+      {
+        "id": "C",
+        "text": "443"
+      },
+      {
+        "id": "D",
+        "text": "8080"
+      }
+    ],
+    "correctAnswer": "443",
+    "difficulty": "easy"
+  },
+  {
+    "id": 136,
+    "category": "FTP",
+    "question": "Which protocol is used for file transfer?",
+    "options": [
+      {
+        "id": "A",
+        "text": "SMTP"
+      },
+      {
+        "id": "B",
+        "text": "FTP"
+      },
+      {
+        "id": "C",
+        "text": "DNS"
+      },
+      {
+        "id": "D",
+        "text": "SNMP"
+      }
+    ],
+    "correctAnswer": "FTP",
+    "difficulty": "medium"
+  },
+  {
+    "id": 137,
+    "category": "SMTP",
+    "question": "Which protocol is used for sending emails?",
+    "options": [
+      {
+        "id": "A",
+        "text": "POP3"
+      },
+      {
+        "id": "B",
+        "text": "IMAP"
+      },
+      {
+        "id": "C",
+        "text": "SMTP"
+      },
+      {
+        "id": "D",
+        "text": "ARP"
+      }
+    ],
+    "correctAnswer": "SMTP",
+    "difficulty": "hard"
+  },
+  {
+    "id": 138,
+    "category": "DHCP",
+    "question": "Which protocol automatically assigns IP addresses?",
+    "options": [
+      {
+        "id": "A",
+        "text": "DNS"
+      },
+      {
+        "id": "B",
+        "text": "DHCP"
+      },
+      {
+        "id": "C",
+        "text": "HTTP"
+      },
+      {
+        "id": "D",
+        "text": "FTP"
+      }
+    ],
+    "correctAnswer": "DHCP",
+    "difficulty": "medium"
+  },
+  {
+    "id": 139,
+    "category": "Router",
+    "question": "Which device connects multiple networks?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hub"
+      },
+      {
+        "id": "B",
+        "text": "Switch"
+      },
+      {
+        "id": "C",
+        "text": "Router"
+      },
+      {
+        "id": "D",
+        "text": "Bridge"
+      }
+    ],
+    "correctAnswer": "Router",
+    "difficulty": "easy"
+  },
+  {
+    "id": 140,
+    "category": "Switch",
+    "question": "Which device works at the Data Link layer?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Router"
+      },
+      {
+        "id": "B",
+        "text": "Hub"
+      },
+      {
+        "id": "C",
+        "text": "Switch"
+      },
+      {
+        "id": "D",
+        "text": "Gateway"
+      }
+    ],
+    "correctAnswer": "Switch",
+    "difficulty": "medium"
+  },
+  {
+    "id": 141,
+    "category": "OSI model",
+    "question": "Which layer of the OSI model handles routing?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Application"
+      },
+      {
+        "id": "B",
+        "text": "Transport"
+      },
+      {
+        "id": "C",
+        "text": "Network"
+      },
+      {
+        "id": "D",
+        "text": "Session"
+      }
+    ],
+    "correctAnswer": "Network",
+    "difficulty": "easy"
+  },
+  {
+    "id": 142,
+    "category": "TCP/IP",
+    "question": "Which protocol is connection-oriented?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UDP"
+      },
+      {
+        "id": "B",
+        "text": "TCP"
+      },
+      {
+        "id": "C",
+        "text": "ICMP"
+      },
+      {
+        "id": "D",
+        "text": "ARP"
+      }
+    ],
+    "correctAnswer": "TCP",
+    "difficulty": "easy"
+  },
+  {
+    "id": 143,
+    "category": "DNS",
+    "question": "What does DNS stand for?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Domain Name System"
+      },
+      {
+        "id": "B",
+        "text": "Dynamic Naming Service"
+      },
+      {
+        "id": "C",
+        "text": "Digital Network System"
+      },
+      {
+        "id": "D",
+        "text": "Domain Network Service"
+      }
+    ],
+    "correctAnswer": "Domain Name System",
+    "difficulty": "hard"
+  },
+  {
+    "id": 144,
+    "category": "HTTP",
+    "question": "What is the default port for HTTP?",
+    "options": [
+      {
+        "id": "A",
+        "text": "21"
+      },
+      {
+        "id": "B",
+        "text": "25"
+      },
+      {
+        "id": "C",
+        "text": "80"
+      },
+      {
+        "id": "D",
+        "text": "443"
+      }
+    ],
+    "correctAnswer": "80",
+    "difficulty": "medium"
+  },
+  {
+    "id": 145,
+    "category": "HTTPS",
+    "question": "What is the default port for HTTPS?",
+    "options": [
+      {
+        "id": "A",
+        "text": "20"
+      },
+      {
+        "id": "B",
+        "text": "22"
+      },
+      {
+        "id": "C",
+        "text": "443"
+      },
+      {
+        "id": "D",
+        "text": "8080"
+      }
+    ],
+    "correctAnswer": "443",
+    "difficulty": "hard"
+  },
+  {
+    "id": 146,
+    "category": "FTP",
+    "question": "Which protocol is used for file transfer?",
+    "options": [
+      {
+        "id": "A",
+        "text": "SMTP"
+      },
+      {
+        "id": "B",
+        "text": "FTP"
+      },
+      {
+        "id": "C",
+        "text": "DNS"
+      },
+      {
+        "id": "D",
+        "text": "SNMP"
+      }
+    ],
+    "correctAnswer": "FTP",
+    "difficulty": "easy"
+  },
+  {
+    "id": 147,
+    "category": "SMTP",
+    "question": "Which protocol is used for sending emails?",
+    "options": [
+      {
+        "id": "A",
+        "text": "POP3"
+      },
+      {
+        "id": "B",
+        "text": "IMAP"
+      },
+      {
+        "id": "C",
+        "text": "SMTP"
+      },
+      {
+        "id": "D",
+        "text": "ARP"
+      }
+    ],
+    "correctAnswer": "SMTP",
+    "difficulty": "medium"
+  },
+  {
+    "id": 148,
+    "category": "DHCP",
+    "question": "Which protocol automatically assigns IP addresses?",
+    "options": [
+      {
+        "id": "A",
+        "text": "DNS"
+      },
+      {
+        "id": "B",
+        "text": "DHCP"
+      },
+      {
+        "id": "C",
+        "text": "HTTP"
+      },
+      {
+        "id": "D",
+        "text": "FTP"
+      }
+    ],
+    "correctAnswer": "DHCP",
+    "difficulty": "hard"
+  },
+  {
+    "id": 149,
+    "category": "Router",
+    "question": "Which device connects multiple networks?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hub"
+      },
+      {
+        "id": "B",
+        "text": "Switch"
+      },
+      {
+        "id": "C",
+        "text": "Router"
+      },
+      {
+        "id": "D",
+        "text": "Bridge"
+      }
+    ],
+    "correctAnswer": "Router",
+    "difficulty": "medium"
+  },
+  {
+    "id": 150,
+    "category": "Switch",
+    "question": "Which device works at the Data Link layer?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Router"
+      },
+      {
+        "id": "B",
+        "text": "Hub"
+      },
+      {
+        "id": "C",
+        "text": "Switch"
+      },
+      {
+        "id": "D",
+        "text": "Gateway"
+      }
+    ],
+    "correctAnswer": "Switch",
+    "difficulty": "hard"
+  }
+]
