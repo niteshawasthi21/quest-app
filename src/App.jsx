@@ -11,14 +11,19 @@ function ProtectedRoute({ children }) {
   return currentUser ? children : <Navigate to="/login" replace />;
 }
 
+function PublicRoute({ children }) {
+  const { currentUser } = useApp();
+  return currentUser ? <Navigate to="/dashboard" replace /> : children;
+}
+
 export default function App() {
   const { currentUser } = useApp();
 
   return (
     <Routes>
       <Route path="/" element={<Navigate to={currentUser ? '/dashboard' : '/login'} replace />} />
-      <Route path="/login" element={<LoginPage />} />
-      <Route path="/register" element={<RegisterPage />} />
+      <Route path="/login" element={<PublicRoute><LoginPage /></PublicRoute>} />
+      <Route path="/register" element={<PublicRoute><RegisterPage /></PublicRoute>} />
       <Route path="/dashboard" element={<ProtectedRoute><DashboardPage /></ProtectedRoute>} />
       <Route path="/exam" element={<ProtectedRoute><ExamPage /></ProtectedRoute>} />
       <Route path="/report" element={<ProtectedRoute><ReportPage /></ProtectedRoute>} />
